@@ -36,9 +36,9 @@ Database links:
 
 
 
-## Code snippets from Google Earth Engine :globe_with_meridians: 🛰️ 
+## CODE SNIPPETS :globe_with_meridians: 🛰️ 
 
-The following code snippets are designed as **interactive examples** to be used during the lecture. They will be demonstrated live, and participants will have the opportunity to engage with the code.  
+The following code snippets are designed as **interactive examples** to be used during the lecture.   
 
 In the **second part of the workshop**, we will **break down and explain each section of the code**
 
@@ -47,8 +47,10 @@ In the **second part of the workshop**, we will **break down and explain each se
 - **Pixels** – Understanding how satellite images are composed of discrete units of information.  
 - **Orbits and Frequency** – Exploring how satellites capture imagery at different time intervals and resolutions.
 
-<img width="1459" alt="Screenshot 2025-02-17 at 11 25 56 PM" src="https://github.com/user-attachments/assets/445f0b98-6151-428c-9b43-4c5787520884" />
-1. https://code.earthengine.google.co.in/2dfe726ae8bf26f016bacb69706db118?hideCode=true
+<img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 07 37 PM" src="https://github.com/user-attachments/assets/04986569-fc38-4621-a18f-10b83041fbac" />
+
+
+1. [https://code.earthengine.google.com/05e54fa76944c926339cee4f09cfe588]
 
 
 ### Step 2: Spectrum and Indexes
