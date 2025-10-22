@@ -11,7 +11,7 @@ Earth Engines is a workshop that experiments with remote sensing as both method 
 
 <img width="1274" height="844" alt="Screenshot 2025-10-22 at 10 48 49 PM" src="https://github.com/user-attachments/assets/f024421d-602d-4c7e-8505-6b0b251727e0" />
 
-
+[Are.na](https://www.are.na/lucia-rebolino/rca-earth-engines)
 
 
 ## CLOUD COMPUTING 💻
