@@ -38,7 +38,7 @@ Database links:
 
 
 
-## CODE SNIPPETS :globe_with_meridians: 🛰️ 
+## CODE SNIPPETS :globe_with_meridians: 
 
 The following code snippets are designed as **interactive examples** to be used during the lecture. In the **second part of the workshop**, we will **break down and explain each section of the code**
 
@@ -95,21 +95,22 @@ The following code snippets are designed as **interactive examples** to be used 
         <br>
         
 
-## INDEXES
+## INDEXES 🛰️ 
 
-Each term corresponds to how energy interacts with Earth's surface and atmosphere:
+Each of the following terms describes how energy interacts with Earth’s surface and atmosphere, and connects to three core satellites driving Earth sensing: Landsat, Sentinel, and GOES.
 
 ### REFLECTANCE
 <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 28 42 PM" src="https://github.com/user-attachments/assets/f4dbf17d-3f8b-47bc-b3e6-5c41b435ae76" />
+(https://code.earthengine.google.com/0565361e27d68a6ecccb38f2c32f094b)
 
 
 ### RADIANCE
 <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 31 45 PM" src="https://github.com/user-attachments/assets/c1702116-a443-4e73-8b4d-07abb0f8e626" />
+(https://code.earthengine.google.com/6e4777d972ea284b73ebc54aeab5e137)
 
-### TRANSIMTTANCE
+### TRANSIMMTANCE
 <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 32 49 PM" src="https://github.com/user-attachments/assets/c5b0cc9c-f613-48e2-bcaa-77fc6298349d" />
-
-
+(https://code.earthengine.google.com/c64c60abe61486d4600dd664b3fe8b15)
 
 
 
