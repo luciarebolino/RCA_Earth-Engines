@@ -1,4 +1,5 @@
-<img width="1459" alt="testcover" src="https://github.com/user-attachments/assets/55ca6481-5d70-4bfe-9db5-6e4a376439e5" />
+<img width="1459" alt="testtesttest" src="https://github.com/user-attachments/assets/992293e0-8e33-498e-ae08-f016236d2edc" />
+
 
 
 
@@ -12,7 +13,9 @@ October 2025
 Earth Engines is a workshop that experiments with remote sensing as both method and medium, using Google Earth Engine to explore the atmospheric and spectral layers of the Earth. Through coding and cloud-based data processing, it reframes satellite imagery as temporal and moving surfaces to interpret and translate environmental change.
 
 
-<img width="488" height="386" alt="Screenshot 2025-10-22 at 8 21 47 PM" src="https://github.com/user-attachments/assets/af7c05d6-12ab-4bdb-9a80-7e3ab3462083" />
+<p align="center">
+  <img width="488" height="386" alt="Screenshot 2025-10-22 at 8 21 47 PM" src="https://github.com/user-attachments/assets/af7c05d6-12ab-4bdb-9a80-7e3ab3462083" />
+</p>
 
 
 ## CLOUD COMPUTING 💻
