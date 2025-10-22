@@ -1,4 +1,4 @@
-<img width="1459" alt="coversmall" src="https://github.com/user-attachments/assets/5048c835-4349-4566-b062-cfb8b2f2f5f8" />
+<img width="1459" alt="covercrop" src="https://github.com/user-attachments/assets/4704c79d-d8c0-4155-87df-c5ccb833b707" />
 
 
 
