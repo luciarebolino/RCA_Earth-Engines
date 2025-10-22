@@ -30,7 +30,8 @@ Earth Engines is a workshop that experiments with remote sensing as both method 
 Database links:
 <br>
 [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/landsat) <br>
-[GEE Community Catalogue](https://gee-community-catalog.org/)
+[GEE Community Catalogue](https://gee-community-catalog.org/)<br>
+[Spectral Indexes](https://awesome-ee-spectral-indices.readthedocs.io/en/latest/index.html)
 
 
 
@@ -65,8 +66,9 @@ In the **second part of the workshop**, we will **break down and explain each se
 
 - **Light** – When light strikes an object, it can be absorbed, transmitted, or reflected. How this interaction happens and how it depends on the material properties of the surface?  
 - **Bands** – Combining bands - specific segments of the electromagnetic spectrum.
+- 
+![Uploading Screenshot 2025-10-22 at 9.43.22 PM.png…]()
 
-<img width="1459" alt="Screenshot 2025-02-18 at 12 50 33 AM" src="https://github.com/user-attachments/assets/bc267961-8586-4f7b-b571-e93e67408faa" />
 1. https://code.earthengine.google.co.in/bb2535bca205b0e77576931c5c959295?hideCode=true
    <br>
 2. https://code.earthengine.google.co.in/7c6d6cd9411141a4d8c6fa106b7d123d?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true
