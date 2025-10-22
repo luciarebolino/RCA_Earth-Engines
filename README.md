@@ -1,9 +1,6 @@
 <img width="1459" alt="testtesttest" src="https://github.com/user-attachments/assets/992293e0-8e33-498e-ae08-f016236d2edc" />
 
 
-
-
-
 # RCA_ADS2    -    Earth Engines
 
 October 2025 
