@@ -9,9 +9,9 @@ October 2025
 <br>
 During the semester, resources, references, and tutorials will be shared through Are.na, a collaborative platform where everyone can contribute by adding new blocks with cool GEE examples they discover and would like to share and learn.
 
-At a later stage in the course, Are.na will also become a tool for representation, allowing us to structure and present our findings collectively.
+<img width="520" height="383" alt="Screenshot 2025-10-22 at 8 20 07 PM" src="https://github.com/user-attachments/assets/947dc923-94e0-4e08-aa61-3bfd630b58a2" />
 
-To ensure smooth collaboration, please upload your [Are.na and GitHub handles](https://docs.google.com/spreadsheets/d/1kiHMuyLygtd7X5zzA5On-iKi-u4TDt42nBywRIzKa1U/edit?usp=sharing) so that I can add you as editors on both platforms.
+
 
 ## CLOUD COMPUTING 💻
 
