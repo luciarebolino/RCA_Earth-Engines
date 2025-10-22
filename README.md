@@ -73,7 +73,8 @@ In the **second part of the workshop**, we will **break down and explain each se
 . [02RCA_Spectrum Indexes01]() 
    <br>
    
-   <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 00 16 PM" src="https://github.com/user-attachments/assets/9ca3c430-fe5f-4d99-b01f-65ca7df05deb" />
+<img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 04 59 PM" src="https://github.com/user-attachments/assets/8026bea7-7844-439b-91d4-74583c3fe9f1" />
+
 
 . [02RCA_Spectrum Indexes02]() 
 
@@ -84,13 +85,21 @@ In the **second part of the workshop**, we will **break down and explain each se
         <br>
         
 
+### 03.Time Machine
+
+- **Time** – The continuous Landsat archive enables temporal analysis of Earth’s surface, providing multi-decadal observations for change detection.
+- **Memory** –  Each spectral band preserves radiometric information that allows reconstruction of past environmental and land surface conditions.
+
+  <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 03 36 PM" src="https://github.com/user-attachments/assets/7690dfb4-8bb6-44d9-801a-8a66a0e6491a" />
+
+
 
 
 
 ### SPECTRUM IDEXES
 
 
-# Select and Download Images GEOTIFF 
+
 <img width="1461" alt="Screenshot 2025-02-18 at 5 15 49 AM" src="https://github.com/user-attachments/assets/a5a752f4-f957-4a80-a07a-222ef980fd59" />
 https://code.earthengine.google.co.in/0a0a0c9adc2692abe9f6d55732237ad1?hideCode=true
 
