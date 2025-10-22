@@ -43,7 +43,7 @@ The following code snippets are designed as **interactive examples** to be used 
 
 In the **second part of the workshop**, we will **break down and explain each section of the code**
 
-### Step 1: Satellites
+### 00.Satellites
 
 - **Pixels** – Understanding how satellite images are composed of discrete units of information.  
 - **Orbits and Frequency** – Exploring how satellites capture imagery at different time intervals and resolutions.
@@ -51,27 +51,33 @@ In the **second part of the workshop**, we will **break down and explain each se
 <img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 07 37 PM" src="https://github.com/user-attachments/assets/04986569-fc38-4621-a18f-10b83041fbac" />
 
 
-1. [00RCA_Satellite](https://code.earthengine.google.com/05e54fa76944c926339cee4f09cfe588)
+. [00RCA_Satellite](https://code.earthengine.google.com/05e54fa76944c926339cee4f09cfe588)
 
-### Step 2: Elevation 
+### 01.Elevation 
 
 - **Height** – Map the vertical dimension of the Earth's surface.
 
 <img width="1573" height="1047" alt="Screenshot 2025-10-22 at 9 22 01 PM" src="https://github.com/user-attachments/assets/88d889e4-79ef-48ae-8bfb-944b6844c7a1" />
 
-2. [01RCA_DEM] (https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
+. [01RCA_DEM](https://code.earthengine.google.com/5f6656bd7cdb5e7c5ade88a4dc2df1fc)
 
 
-### Step 2: Spectrum and Indexes
+### 02.Spectrum and Indexes
 
 - **Light** – When light strikes an object, it can be absorbed, transmitted, or reflected. How this interaction happens and how it depends on the material properties of the surface?  
 - **Bands** – Combining bands - specific segments of the electromagnetic spectrum.
-- 
+
+<img width="478" height="475" alt="Screenshot 2025-10-22 at 9 56 22 PM" src="https://github.com/user-attachments/assets/a832263c-6eb1-4eb9-b8c9-baf2ca848618" />
+
+ 
 ![Uploading Screenshot 2025-10-22 at 9.43.22 PM.png…]()
 
-1. https://code.earthengine.google.co.in/bb2535bca205b0e77576931c5c959295?hideCode=true
+. [02RCA_Spectrum Indexes01]() 
    <br>
-2. https://code.earthengine.google.co.in/7c6d6cd9411141a4d8c6fa106b7d123d?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true
+   
+   <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 00 16 PM" src="https://github.com/user-attachments/assets/9ca3c430-fe5f-4d99-b01f-65ca7df05deb" />
+
+. [02RCA_Spectrum Indexes02]() 
 
 
 ### Step 3: Elevation 
