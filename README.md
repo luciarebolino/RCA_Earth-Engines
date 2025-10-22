@@ -1,4 +1,5 @@
-<img width="1459" alt="Screenshot 2025-02-17 at 11 25 56 PM" src="[https://github.com/user-attachments/assets/5048c835-4349-4566-b062-cfb8b2f2f5f8]" />
+<img width="1459" alt="coversmall" src="https://github.com/user-attachments/assets/5048c835-4349-4566-b062-cfb8b2f2f5f8" />
+
 
 
 # RCA_ADS2    -    Earth Engines
