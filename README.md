@@ -1,4 +1,5 @@
-<img width="1459" alt="covercrop" src="https://github.com/user-attachments/assets/4704c79d-d8c0-4155-87df-c5ccb833b707" />
+<img width="1459" alt="testcover" src="https://github.com/user-attachments/assets/55ca6481-5d70-4bfe-9db5-6e4a376439e5" />
+
 
 
 
@@ -39,9 +40,8 @@ Database links:
 
 ## CODE SNIPPETS :globe_with_meridians: 🛰️ 
 
-The following code snippets are designed as **interactive examples** to be used during the lecture.   
+The following code snippets are designed as **interactive examples** to be used during the lecture. In the **second part of the workshop**, we will **break down and explain each section of the code**
 
-In the **second part of the workshop**, we will **break down and explain each section of the code**
 
 ### 00.Satellites
 
@@ -79,12 +79,6 @@ In the **second part of the workshop**, we will **break down and explain each se
 . [02RCA_Spectrum Indexes02]() 
 
 
-  <br>
-    <br>
-      <br>
-        <br>
-        
-
 ### 03.Time Machine
 
 - **Time** – The continuous Landsat archive enables temporal analysis of Earth’s surface, providing multi-decadal observations for change detection.
@@ -92,9 +86,14 @@ In the **second part of the workshop**, we will **break down and explain each se
 
   <img width="1615" height="1002" alt="Screenshot 2025-10-22 at 10 03 36 PM" src="https://github.com/user-attachments/assets/7690dfb4-8bb6-44d9-801a-8a66a0e6491a" />
 
+. [03RCA_Time Machine]() 
 
 
-
+  <br>
+    <br>
+      <br>
+        <br>
+        
 
 ### SPECTRUM IDEXES
 
