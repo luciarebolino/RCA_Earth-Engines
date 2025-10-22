@@ -33,12 +33,10 @@ Database links:
 [GEE Community Catalogue](https://gee-community-catalog.org/)
 
 
-Code snippets from Google Earth Engine:
 
 
 
-:globe_with_meridians: 🛰️
-Code snippets from Google Earth Engine:
+## Code snippets from Google Earth Engine :globe_with_meridians: 🛰️ 
 
 The following code snippets are designed as **interactive examples** to be used during the lecture. They will be demonstrated live, and participants will have the opportunity to engage with the code.  
 
