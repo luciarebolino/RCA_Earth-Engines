@@ -7,10 +7,11 @@
 October 2025 
 <br>
 <br>
-During the semester, resources, references, and tutorials will be shared through Are.na, a collaborative platform where everyone can contribute by adding new blocks with cool GEE examples they discover and would like to share and learn.
 
-<img width="520" height="383" alt="Screenshot 2025-10-22 at 8 20 07 PM" src="https://github.com/user-attachments/assets/947dc923-94e0-4e08-aa61-3bfd630b58a2" />
+Earth Engines is a workshop that experiments with remote sensing as both method and medium, using Google Earth Engine to explore the atmospheric and spectral layers of the Earth. Through coding and cloud-based data processing, it reframes satellite imagery as temporal and moving surfaces to interpret and translate environmental change.
 
+
+<img width="488" height="386" alt="Screenshot 2025-10-22 at 8 21 47 PM" src="https://github.com/user-attachments/assets/af7c05d6-12ab-4bdb-9a80-7e3ab3462083" />
 
 
 ## CLOUD COMPUTING 💻
