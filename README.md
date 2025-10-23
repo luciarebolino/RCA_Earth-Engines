@@ -51,6 +51,8 @@ The following code snippets are designed as **interactive examples** to be used 
 
 
 . [00RCA_Satellite](https://code.earthengine.google.com/05e54fa76944c926339cee4f09cfe588)
+. [00RCA_Satellite Video](https://code.earthengine.google.com/4b3481d389ac9a33d0782331c8ec728b)
+. [00RCA_Satellite Geotiff](https://code.earthengine.google.com/7963f6355091857e9bf93a5d19b8b404)
 
 ### 01.Elevation 
 
